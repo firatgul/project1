@@ -1,1 +1,2 @@
-two commit for blue branch
+two commit for blue bran
+adding second lineh
